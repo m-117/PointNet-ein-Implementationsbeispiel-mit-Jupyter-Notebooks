@@ -2,9 +2,9 @@
 
 Dieses Projekt dient dazu, die von Qi et al. [1] entworfene PointNet-Architektur anhand einer interaktiven Beispiel-Implementation zu erläutern und somit einem breiteren Publikum verständlich zu machen.
 
-Der Code dieses Projekt basiert auf (https://github.com/garyli1019/pointnet-keras)
+Der Code dieses Projekt basiert auf https://github.com/garyli1019/pointnet-keras
 
-Die Original-Implementation der Autoren ist in folgendem Repo zu finden: (https://github.com/charlesq34/pointnet)
+Die Original-Implementation der Autoren ist in folgendem Repo zu finden: https://github.com/charlesq34/pointnet
 
 ## Installation
 
