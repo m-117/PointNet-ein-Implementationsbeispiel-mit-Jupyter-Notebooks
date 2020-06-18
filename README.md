@@ -8,11 +8,23 @@ Die Original-Implementation der Autoren ist in folgendem Repo zu finden: https:/
 
 ## Installation
 
+Via Anaconda:
+
 - [**Anaconda**](https://www.anaconda.com/products/individual) installieren 
 
 - Tensorflow und Keras via Anaconda Navigator zur root-Umgebung hinzufügen
 
 - Server via Jupyter Notebook App starten
+
+Via Pip:
+
+- falls eine GPU von Nvidia genutzt wird: [**CUDA**](https://developer.nvidia.com/cuda-downloads) installieren
+
+- [**Python 3.6.1 oder höher**](https://www.python.org/downloads/) installieren
+
+- in der Kommandozeile zum Verzeichnis des Repositories navigieren und folgenden Befehl eingeben: "pip install -r requirements.txt"
+
+- anschließend Jupyter Notebook über die Kommandozeile mit "jupyter notebook" starten
 
 ## Nutzung
 
